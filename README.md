@@ -27,5 +27,5 @@
 
 - Display all informations of the current account including base informations and balance fuctuation history of the account.
 
-## Functions
+## Demonstration
 - The features and funtions of the application are shown in this video [Demo video](https://husteduvn-my.sharepoint.com/:v:/g/personal/vu_hn215171_sis_hust_edu_vn/EZ0BqyzvfuNFvkUeXXCmk_kBm41q6tQMxNSzsbtevmXTbA?e=Yba6x8)
